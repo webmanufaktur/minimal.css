@@ -1,4 +1,4 @@
-# threes.css (aka sss.css)
+# minimal.css
 
 *simple stupid styling CSS* should become a solid base for upcoming projects. The goal is to have all needed basics available that are needed for *simple stupid styling* tasks you would otherwise repeat each and everytime again.
 
