@@ -29,5 +29,5 @@ You can always use any tool that fits your needs. Whatever it is. It just needs 
 ## FAQ
 
 **Why yet another CSS framework?**
-It's not another framework. It's another tool in my tool belt. Everything within this project is based on my personal workflow to build everything from prototypes, MVPs or even stable and productive online projects. Therefore it will not everyone's projects. I guess it will only fit my workflow and projects.
+It's not another framework. It's another tool in my tool belt. Everything within this project is based on my personal workflow to build everything from prototypes, MVPs or even stable and productive online projects. Therefore it will not be everyone's darling or everyone's tool of chjoice for some kind of projects. To be totally honest... I guess it will only fit somewhere in my workflow and projects.
 
