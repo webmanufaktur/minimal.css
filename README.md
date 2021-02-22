@@ -24,7 +24,7 @@ The main details are... well... it's CSS made from .less or .sass or .scss... do
 * [ProcessWire ProCache](https://processwire.com/store/pro-cache/)
 * [Prepros](https://prepros.io/)
 
-You can always use any tool that fits your needs. Whatever it is. It just needs to understand [.less](http://lesscss.org/), .sass or .scss.
+You can always use any tool that fits your needs. Whatever it is. It just needs to understand [.less](http://lesscss.org/), [.sass](https://sass-lang.com/) or .scss.
 
 ## FAQ
 
